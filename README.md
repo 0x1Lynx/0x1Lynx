@@ -1,6 +1,7 @@
 # 0xF7D4A 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [0xF7D4A@gmail.com](mailto:0xF7D4A@gmail.com) * 🧠  I'm learning Reverse engineering
+* ✉️  You can contact me at [0xF7D4A@gmail.com](mailto:0xF7D4A@gmail.com)
+* 🧠  I'm learning Reverse engineering
 
 ### Skills  
 
